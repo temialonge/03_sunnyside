@@ -392,8 +392,8 @@ footer ul {
     .nav-menu li a:hover{
         background-color: var(--Yellow);
         border-radius: 15px;
-        padding: inherit;
-        padding: 10px;
+        /* padding: inherit; */
+        /* padding: 10px; */
         transition: 0.3s;
     }
     .hamburger {
